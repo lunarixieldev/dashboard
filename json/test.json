@@ -1,0 +1,9 @@
+{
+  "Name": "Example Image 1",
+  "Description": "Description of the image",
+  "Url": "https://example.com/image1.jpg",
+  "Tags": ["tag1", "tag2"],
+  "Author": "Author Name",
+  "License": "MIT",
+  "CreatedAt": "2023-01-01T00:00:00Z"
+}
